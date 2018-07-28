@@ -8,7 +8,7 @@ Du, H. & Liu, Y. **Minmax-concave Total Variation Denoising**.
 
 doi: 10.1007/s11760-018-1248-2
 
-url: https://link.springer.com/article/10.1007/s11760-018-1248-2
+url: <https://link.springer.com/article/10.1007/s11760-018-1248-2>
 
 ## Prerequisite
 - Python 3
