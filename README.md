@@ -28,6 +28,6 @@ url: <https://link.springer.com/article/10.1007/s11760-018-1248-2>
 
 - Feel free to explore and modify all parameter values in `main.py`. For detailed explanation of each parameter and its proper value range, please see the comment in code. 
 
-- For MATLAB version of the source code, you can email me: <yilinl2@andrew.cmu.edu>.
+- For MATLAB version of the source code, you can email me @ <yilinl2@alumni.cmu.edu>.
 
 - For more algorithm details, please see `tv1d.py`, `metv1d.py` and `mctv1d.py` or the relevant research paper.
