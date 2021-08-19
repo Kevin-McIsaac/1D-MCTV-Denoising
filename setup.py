@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="1D Total Variation Denoising (TVD)",
+    name="1D-MCTV",
     version=1,
     description="Three methods for Total Variation Denoising (TVD)",
     long_description=open('README.md').read(),
