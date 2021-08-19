@@ -1,11 +1,11 @@
 import setuptools
 
 setuptools.setup(
-    name="1D-MCTV",
+    name="TVD",
     version=1,
     description="Three methods for Total Variation Denoising (TVD)",
     long_description=open('README.md').read(),
-    packages=['1D-MCTV'],
+    packages=['TVD'],
     install_requires=['numpy'],
     python_requires='>=3.6',
 )
